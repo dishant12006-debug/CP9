@@ -1,0 +1,6 @@
+{
+  "name": "Creative Agency Banner",
+  "description": "A premium, minimalist creative agency banner with glassmorphism layouts, clean typography, and motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
